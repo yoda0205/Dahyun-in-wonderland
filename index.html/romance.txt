@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="action.css">
+<meta charset-"utf-8">
+</head>
+
+
+
+<body>
+
+<div class="h1"> 
+<h1> Romance </h1>
+</div>
+
+
+<div class="content">
+
+<div class="column1">
+<div id="navigation">
+<ul >
+<br><li> <a href="main.html" target="_self"> ▪ Welcome </a> </li>
+<br><li> <a href="aboutme.html"  target="_blank"> ▪ About Me </a> </li> </br>
+    <li> <a href="bookreview.html"  target="_self"> ▪ Book Review </a> 
+    </li>
+<br><li> <a href="knowlegebase.html"  target="_self"> ▪ Knowledge Base </a></br>
+  </li>
+<br><li> <a href="myfavorite.html"  target="_self"> ▪ My Favorite </a> </br>
+  </li>
+<br><li> <a href="movierecommendation.html"  target="_self"> ▪ Movie Recommendation </a> </br>
+       <ul>
+       <li> <a href="action.html"  target="_self"> -Action </a> </li>
+       <li>  <a href="animation.html"  target="_self"> -Animation </a>  </li>
+       <li>  <a href="comedy.html"  target="_self"> -comedy </a>  </li>
+       <li>  <a href="musical.html"  target="_self"> -Musical </a>  </li>
+       <li>  <a href="romance.html"  target="_self"> -Romance </a>  </li>
+       <li>  <a href="sf.html"  target="_self"> -SF/ Fantasy </a>  </li>
+       </ul>  
+</li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+<div class="h3">
+<h3> OST </h3>
+<div class="h5">
+<a href="https://www.youtube.com/watch?v=S7N6kB11GpE" target="_blank">
+<img
+src="https://static01.nyt.com/images/2019/03/31/arts/31tenthings-history1/31tenthings-history1-videoSixteenByNineJumbo1600.jpg"
+width="250" height="350"
+style="position: relative; 
+margin-left: 8%;
+display:block;"
+>
+</a>
+
+</h5>
+</div>
+</div>
+</div>
+
+<div class="column3">
+<div class="h3">
+<h3> Movie Trailer </h3>
+<div class="h5">
+<a href="https://www.youtube.com/watch?v=AWmjzCZr0Jw" target="_blank">
+<img
+src="https://art-s.nflximg.net/b5e6a/a5b48e76d77938e420804e968230a73dbdeb5e6a.jpg"
+width="250" height="350"
+style="position: relative; 
+margin-left : 8%;
+display:block;"
+>
+</a>
+
+</h5>
+</div>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>
+

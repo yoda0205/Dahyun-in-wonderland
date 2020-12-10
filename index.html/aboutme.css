@@ -1,0 +1,33 @@
+body {
+font-family: calibra, verdana, sans-serif;
+width:90%;
+text-align:center;
+background-color: #002060;
+}
+
+.h1 {
+color: white;
+}
+
+.h3 {
+color: white;
+}
+
+.h5 {
+color: white;
+text-align: left;
+}
+.column1, .column2, .column3 {
+width:47%;
+margin:10px;
+float:left;
+height:570px;
+box-sizing:border-box;
+border-style: solid;
+border-width: 1.5px;
+border-color: #C00000;
+}
+
+.content {
+overflow:auto;
+}

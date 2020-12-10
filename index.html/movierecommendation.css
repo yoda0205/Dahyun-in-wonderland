@@ -1,0 +1,43 @@
+body {
+font-family: calibra, verdana, sans-serif;
+width:90%;
+background-color: #002060;
+}
+
+.h1 {
+color: white;
+text-align: center;
+}
+
+#navigation {
+width:23%;
+height:500px;
+
+border-style: solid;
+border-width: 1.5px;
+border-color: #C00000;
+color: white;
+}
+
+#navigation ul li {
+position:relative;
+}
+
+#navigation li a {
+text-decoration:none;
+color:#fff;
+}
+
+#navigation li:hover a {
+color: #C00000;
+}
+
+#navigation li a:hover {
+text-decoration: underline;
+color: #COOOOO;
+}
+
+#navigation ul li {
+list-style:none;
+color:white;
+}
