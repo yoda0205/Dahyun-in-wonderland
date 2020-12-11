@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="book1.css">
+<meta charset-"utf-8">
+</head>
+
+
+
+<body>
+
+<div class="h1"> 
+<h1> Book Review </h1>
+</div>
+
+
+<div class="content">
+
+<div class="column1">
+<div id="navigation">
+<ul >
+<br><li> <a href="index.html" target="_self"> ▪ Welcome </a> </li> </br>
+<br><li> <a href="aboutme.html" target="_blank"> ▪ About Me </a> </li> </br>
+    <li> <a href="bookreview.html" target="_self"> ▪ Book Review </a> 
+       <ul>
+       <li> <a href="book1.html" target="_self"> -Book 1 </a> </li>
+       <li>  <a href="book2.html" target="_self"> -Book 2 </a>  </li>
+       </ul>
+    </li>
+<br><li> <a href="knowlegebase.html" target="_self"> ▪ Knowledge Base </a></br>
+  </li>
+<br><li> <a href="myfavorite.html" target="_self"> ▪ My Favorite </a> </br>
+  </li>
+<br><li> <a href="movierecommendation.html" target="_self"> ▪ Movie Recommendation </a> </br>
+  </li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+<div class="h3">
+<h3> Book 1 </h3>
+<div class="h5">
+<img
+src="https://postfiles.pstatic.net/MjAyMDEyMTBfMTY0/MDAxNjA3NTYzOTgzOTg1.PRe_l1x5cBN8E3yE9SrU7Wl79bTAsSGLoiZ951L9lhMg.BpHkqhVvGZhJodquhA96YcDyPzKgWTpvWGV3Kw543W4g.PNG.yoda0205/bookexplain1.png?type=w966"
+width="80%" height="60%"
+style="position: relative; 
+margin-left: 10%;
+display:block;"
+>
+
+</h5>
+</div>
+</div>
+</div>
+
+
+
+</h5>
+</div>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>
+
